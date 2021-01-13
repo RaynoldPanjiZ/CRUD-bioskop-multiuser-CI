@@ -21,20 +21,22 @@ Some Features in this simple project:
 
 ## Hak akses :
 
-* admin
-username = admin
+* admin &nbsp;
+username = admin &nbsp;
 pass = admin
 
-* customer1
-username = user
+* customer1 &nbsp;
+username = user &nbsp;
 pass = user
 
-* customer2
-username = user2
+* customer2 &nbsp;
+username = user2 &nbsp;
 pass = user2
 
-# enkripsi password md5
+# Lainnya 
 
-# base_url : 'http://localhost/Project/CI_bioskop/'
+* enkripsi password md5
 
-# Database : db_bioskop
+* base_url : 'http://localhost/Project/CI_bioskop/'
+
+* Database : db_bioskop
