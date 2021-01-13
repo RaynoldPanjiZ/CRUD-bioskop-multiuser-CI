@@ -21,16 +21,16 @@ Some Features in this simple project:
 
 ## Hak akses :
 
-* admin &nbsp;
-username = admin &nbsp;
+* admin <br/>
+username = admin <br/>
 pass = admin
 
-* customer1 &nbsp;
-username = user &nbsp;
+* customer1 <br/>
+username = user <br/>
 pass = user
 
-* customer2 &nbsp;
-username = user2 &nbsp;
+* customer2 <br/>
+username = user2 <br/>
 pass = user2
 
 # Lainnya 
