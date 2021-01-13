@@ -33,8 +33,8 @@ pass = user
 username = user2
 pass = user2
 
-## enkripsi password md5
+# enkripsi password md5
 
-## base_url : 'http://localhost/Project/CI_bioskop/'
+# base_url : 'http://localhost/Project/CI_bioskop/'
 
-## Database : db_bioskop
+# Database : db_bioskop
